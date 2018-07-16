@@ -1,4 +1,9 @@
 # Introduction to Backpropagation
-## Running the code -
-1) If numpy is not installed run - sudo pip install numpy or sudo pip3 install numpy
-2) Download this repository and run python3 <path_to_repository>/gradient_descent.py
+## Overview
+This is the code for a simple gradient descent algorithm that demonstrates how backpropagation works. The machine learning model used is linear regression
+## Dependencies
+Numpy - To install numpy run sudo pip install numpy or sudo pip3 install numpy
+## Usage
+Run using python <path_to_repository>/gradient_descent.py or python3 <path_to_repository>/gradient_descent.py
+## Credits
+The credits for this code goes to Siraj Raval (||Source||)
