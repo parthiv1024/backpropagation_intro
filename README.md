@@ -6,4 +6,4 @@ Numpy - To install numpy run sudo pip install numpy or sudo pip3 install numpy
 ## Usage
 Run using python <path_to_repository>/gradient_descent.py or python3 <path_to_repository>/gradient_descent.py
 ## Credits
-The credits for this code goes to Siraj Raval (||Source||)
+The credits for this code and dataset goes to Siraj Raval (||Source||)
